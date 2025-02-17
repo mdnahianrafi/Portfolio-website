@@ -5,6 +5,7 @@ import { BackgroundGradientAnimation } from "./BackgroundGradient";
 import { IoMdMailUnread } from "react-icons/io";
 
 import { useState } from "react";
+import { Globe } from "./GridGlobe";
 
 
 
@@ -48,7 +49,7 @@ export const BentoGridItem = ({
   return (
     <div
       className={cn(
-        "relative row-span-1 rounded-xl overflow-hidden group/bento hover:shadow-xl transition duration-200 shadow-input dark:shadow-none p-4 dark:bg-black dark:border-white/[0.2] bg-white border border-transparent justify-between flex flex-col space-y-4",
+        "bg-black-100 relative row-span-1 rounded-xl overflow-hidden group/bento hover:shadow-xl transition duration-200 shadow-input dark:shadow-none p-4  dark:border-white/[0.2]  border border-transparent justify-between flex flex-col space-y-4",
         className
       )}
     >
@@ -97,6 +98,12 @@ export const BentoGridItem = ({
             containerClassName="w-full h-full absolute inset-0"
           />
         </div>
+      )}
+
+      
+{id===2 && (
+        <Globe baseColor={[0, 0, 1]}  className="absolute -top-12 md:top-32  lg:top-36 lg:-left-1 xl:top-16 xl:left-5 "/>
+
       )}
 
       <div className="group-hover/bento:translate-x-2 transition duration-200">
