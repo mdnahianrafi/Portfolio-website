@@ -41,10 +41,10 @@ words="Experience Seamlessness with Next.js Through My Work"
  <Link href="  https://www.linkedin.com/in/nahian-rafi-1bb15a34a/" target="_blank">  <CiLinkedin  className='text-2xl' /></Link>
    </Button>
    <Button>
-<Link href="https://www.fiverr.com/users/nahian_rafi/seller_dashboard" target="_blank">   <FaGithub  className='text-2xl' /></Link>
+<Link href="https://github.com/mdnahianrafi" target="_blank">   <FaGithub  className='text-2xl' /></Link>
    </Button>
    <Button>
-<Link href="https://github.com/mdnahianrafi" target="_blank">   <TbBrandFiverr   className='text-2xl' /></Link>
+<Link href=">https://www.fiverr.com/users/nahian_rafi/seller_dashboard" target="_blank">   <TbBrandFiverr   className='text-2xl' /></Link>
    </Button>
 </div>
 <div className='pt-10 flex justify-center xl:justify-normal gap-x-5'>
