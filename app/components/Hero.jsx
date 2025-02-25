@@ -49,7 +49,7 @@ words="Experience Seamlessness with Next.js Through My Work"
 </div>
 <div className='pt-10 flex justify-center xl:justify-normal gap-x-5'>
 <Button>
-<Link href="https://drive.google.com/file/d/1a5k6fK7nNiMTvR1jzaZ0oLrhKLei1dIK/view?usp=sharing" target="_blank">
+<Link href="https://drive.google.com/file/d/1D6kqRtMbqJKOgY_eqoSPPrCMaW4ZqMHu/view?usp=sharing" target="_blank">
 <div className='px-10 flex gap-x-4'>
     <h2>My Resume</h2>
     <IoCloudDownloadOutline className='text-2xl'/>
