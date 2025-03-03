@@ -91,7 +91,7 @@ export const navItems = [
         des: "A food recipe blog chanel using next js",
         img: "/three foods.png",
         iconLists: ["/next.svg", "/tail.svg", "/js.png", "/gsap.svg"],
-        link: "https://threefood-oyu11y4j4-nahian-rafis-projects.vercel.app/",
+        link: "https://threefood.vercel.app/",
       },
       {
         id: 4,
