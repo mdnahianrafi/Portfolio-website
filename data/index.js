@@ -71,11 +71,11 @@ export const navItems = [
     export const projects = [
       {
         id: 1,
-        title: "Orebi E-commerce Site",
+        title: "Shop CO E-commerce Site",
         des: "Explore the professionality of my ecommerce site with this captivating design and functionality.",
-        img: "/orebi.png",
-        iconLists: ["/re.svg", "/tail.svg","/js.png","/redux.png" , "/vite.png"],
-        link: "https://orebi-ecommerce-site-five.vercel.app/",
+        img: "/shopco.png",
+        iconLists: ["/re.svg", "/tail.svg","/js.png","/redux.png" , "/vite.png", "/react context api.svg"],
+        link: "https://shopco-ecommerce.vercel.app/",
       },
       {
         id: 2,
@@ -93,13 +93,14 @@ export const navItems = [
         iconLists: ["/next.svg", "/tail.svg", "/js.png", "/gsap.svg"],
         link: "https://threefood.vercel.app/",
       },
-      {
+
+            {
         id: 4,
-        title: "AI Image SaaS - Canva Application",
-        des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-        img: "/p3.svg",
-        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-        link: "#",
+        title: "Orebi E-commerce Site",
+        des: "Explore the professionality of my ecommerce site with this captivating design and functionality.",
+        img: "/orebi.png",
+        iconLists: ["/re.svg", "/tail.svg","/js.png","/redux.png" , "/vite.png"],
+        link: "https://orebi-ecommerce-site-five.vercel.app/",
       },
   
     ];
